@@ -1,6 +1,6 @@
 👋 Hi, I’m @SpaceMerlin33
 
-I'm a software developer and UXUI designer. I've been creating software projects since 2008 and have loved every moment of it.
+I'm a software developer and UXUI designer. 
 
 💻 Currently, I'm proud to be part of the GitLens product team, a powerful Git extension for Visual Studio Code. With GitLens, developers can easily navigate and explore Git repositories, understand code changes with a side-by-side comparison, and gain insights into their codebase's history.
 

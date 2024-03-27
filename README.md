@@ -6,7 +6,7 @@ I'm a software developer and UXUI designer.
 
 📱 In addition to my work with GitLens, I also run my own development company, where I focus on building high-quality software products for businesses and individuals. I believe in creating elegant solutions to complex problems and always strive to exceed my clients' expectations.
 
-🎧 I also make my own music under the name Merlin. Checkout my SoundCloud: [Merlin](https://soundcloud.com/merlinsbeats)
+🎧 I also make my own music under the name Myrlyn. Checkout my SoundCloud: [Myrlyn](https://soundcloud.com/myrlyn1)
 
 <!---
 SpaceMerlin33/SpaceMerlin33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

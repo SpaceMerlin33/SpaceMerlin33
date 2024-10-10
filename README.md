@@ -6,7 +6,7 @@ Currently, proud to be part of the [GitLens](https://marketplace.visualstudio.co
 
 In addition to working with GitLens, I also run my own development company, where I focus on building software products and tools for clients. I believe in creating elegant solutions to complex problems and always strive to exceed clients expectations.
 
-🎧 I also make beats. Checkout my SoundCloud: [Myrlyn](https://soundcloud.com/myrlyn1)
+🎧 I also make beats. Checkout my SoundCloud: [Myrlyn](https://soundcloud.com/myrlyn1/tracks)
 
 <!---
 SpaceMerlin33/SpaceMerlin33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
